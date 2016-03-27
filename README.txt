@@ -2,7 +2,7 @@
 run_analysis.r
 combines test and training data set
 extract mean and standard deviation of each variable out of 561 features
-average of each variable is then calculated by subject/activity
+average of each variable is then calculated for each subject/activity
 
 more details of the data are explained below in the original README
 
